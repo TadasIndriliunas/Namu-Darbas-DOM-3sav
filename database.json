@@ -1,0 +1,54 @@
+{
+"Furniture": [{
+  "id": "0",
+  "title": "Lova",
+  "type": "Miegamojo baldas",
+  "price": 500,
+  "location": {
+    "country": "Lietuva",
+    "city": "Vilnius",
+    "street": "Kalvarijų"
+  },
+  "owner": {
+    "fullname": "Petras Gražulis",
+    "mobile": "+37065236978",
+    "address": "Sodų 1, Vilnius",
+    "email": "petras.grazulis@mail.ru"
+  }
+},
+{
+  "id": "1",
+  "title": "Žurnalinis Staliukas",
+  "type": "Svetainės baldas",
+  "price": 70,
+  "location": {
+    "country": "Lietuva",
+    "city": "Kaunas",
+    "street": "Drobės"
+  },
+  "owner": {
+    "fullname": "Rytis Cicinas",
+    "mobile": "+37061123659",
+    "address": "Drobės 50, Kaunas",
+    "email": "princas.rytis@gmail.com"
+  }
+},
+{
+  "id": "2",
+  "title": "Virtuvinis Stalas",
+  "type": "Virtuvės Baldas",
+  "price": 250,
+  "location": {
+    "country": "Lietuva",
+    "city": "Kaunas",
+    "street": "Demokratų"
+  },
+  "owner": {
+    "fullname": "Vytautas Šustauskas",
+    "mobile": "+37063268741",
+    "address": "Demokratų 11, Kaunas",
+    "email": "meras.chrysler@yandex.ru"
+  }
+}
+]
+}

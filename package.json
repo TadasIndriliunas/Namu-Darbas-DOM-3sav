@@ -1,0 +1,22 @@
+{
+  "name": "namu-darbas-dom-3sav",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TadasIndriliunas/Namu-Darbas-DOM-3sav.git"
+  },
+  "author": "Tadas Indriliunas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TadasIndriliunas/Namu-Darbas-DOM-3sav/issues"
+  },
+  "homepage": "https://github.com/TadasIndriliunas/Namu-Darbas-DOM-3sav#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
